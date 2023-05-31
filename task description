@@ -1,0 +1,23 @@
+Féléves feladat
+
+InfóMátrix/17
+
+Kötelező (minimális) feladat: készítsen egy Java nyelven írt 
+fájlkezelő alkalmazást, mely eleget tesz a következő 
+feltételeknek:
+◼ Fájlban tárolt adatokat kezel
+– Az adatszerkezet legalább 5 adatból álljon
+– Legyen benne szöveges, dátum, és numerikus típusú adat is
+◼ Grafikus felületű alkalmazás legyen
+◼ Legyen alkalmas az adatok megjelenítésére, módosítására, 
+törlésére, új adatsor felvitelére
+◼ Legyen a programban adatokat feldolgozó funkció
+– Pl. ellenőrzés, számítások, statisztika, feltélnek megfelelő 
+megjelenítés, diagram rajzolás...
+
+– Ne csak egyféle, hanem többféle fájlformátumot kezeljen
+– Készítsen megadható paraméterekkel működő feldolgozó 
+funkciót, amely több fájl adatait kezeli (listáz, ellenőriz, 
+feldolgozza az adatokat)
+– Készítsen kimenetként pdf dokumentumot
+– Tömörítse össze az adatokat
